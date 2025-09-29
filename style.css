@@ -298,7 +298,7 @@ a { text-decoration: none; color: inherit; }
   color: #555;
 }
 
-/* Контейнер с формой и картой */
+
 .contact-container {
   display: flex;
   justify-content: center;
@@ -306,7 +306,7 @@ a { text-decoration: none; color: inherit; }
   flex-wrap: wrap;
 }
 
-/* Форма */
+
 .contact-form {
   flex: 1;
   min-width: 300px;
